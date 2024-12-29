@@ -7,9 +7,8 @@ This project combines various database concepts with a dynamic web application t
 ---
 
 ## 🎥 Demo Video
-<div align="center">
-    <iframe width="560" height="315" src="VIDEO_URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+You can watch the demo video of our project [here](https://github.com/Ayabadawy54/HumHome_Project/blob/main/Final%20Video.mp4).
 
 ---
 
